@@ -40,7 +40,7 @@ $stateProvider
               templateUrl: "app/views/areas.html"
           },
           "viewB": {
-              template: "index.viewB"
+              template: "<h2>Podemos estar ao seu lado de três formas</h2>"
           }
       }
   })
@@ -51,7 +51,7 @@ $stateProvider
               templateUrl: "app/views/treinos.html"
           },
           "viewB": {
-              template: "route1.viewB"
+              template: "<h2>Treinos</h2>"
           }
       }
   })
@@ -62,7 +62,7 @@ $stateProvider
               templateUrl: "app/views/consultoria.html"
           },
           "viewB": {
-              template: "route2.viewB"
+              template: "<h2>Consultoria</h2>"
           }
       }
   })
@@ -73,7 +73,7 @@ $stateProvider
               templateUrl: "app/views/retiros.html"
           },
           "viewB": {
-              template: "route2.viewB"
+              template: "<h2>Retiros</h2>"
           }
       }
   })
