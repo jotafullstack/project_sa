@@ -2109,7 +2109,7 @@
 		text-align: center;
 		padding: 7.5em 0 2em 0;
 		cursor: default;
-		font-family: susana;
+		/*font-family: susana;*/
 	}
 
 		#header:before {
