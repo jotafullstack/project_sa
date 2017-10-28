@@ -2089,8 +2089,8 @@
 /* Header */
 
 .logoSwat {
-	width: 350.85px;
-	height: 310.5px;
+	width: 701.7px;
+	height: 621px;
 }
 
 @font-face {
@@ -2150,9 +2150,9 @@
 			display: inline-block;
 			/*border-radius: 100%;*/
 			background-color: #A18F4A;
-			width: 4.5em;
-			height: 4.5em;
-			line-height: 4.5em;
+			width: 3.5em;
+			height: 3.5em;
+			line-height: 3.5em;
 			text-align: center;
 			font-size: 1.25em;
 			padding: 0;
