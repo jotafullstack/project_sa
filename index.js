@@ -9,9 +9,7 @@ app.get('/', function(req, res) {
 });
 
 app.use(express.static('public'));
-
-app.use('/app', express.static(path.join(__dirname, 'app')))
-
+app.use(express.static('app'));
 
 //app.use(express.static(__dirname + '/public'));
 

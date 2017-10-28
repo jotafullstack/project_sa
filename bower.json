@@ -1,0 +1,23 @@
+{
+  "name": "project_sa",
+  "description": "project_sa",
+  "main": "index.js",
+  "authors": [
+    "jota.fullstack."
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "homepage": "https://github.com/jotafullstack/project_sa",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ]
+}
